@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Profile.
 
-You can use the [editor on GitHub](https://github.com/AKSarav/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Sarav ( Saravanan Thangaraj) working in the IT and Development industry for a decade and more.  In my 10+ years of experience I have worked with various Fortune 500 clients and Innovative companies from various sectors like Banking, Retail, Media, Entertainment, Shipping, Financial Services, FMCG etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently working as a Director of Devops/SRE for FieldFLEX Inc. An Enterprice Mobile App company. Where I take care of the Complete Infrastrcutre implementation , reliability and management. I also takes care of DataScience and Security as an additional roles. Out of my own interest
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### An Elevator pitch about myself
+
+I am a Self driven, Passionated Crafts men. I love what I do and believe in Passion and Smartwork.  Believe in team efforts and Brain storming Ideas. Who sees Automation as a efficiency not as a threat. Technical Content writer at DevopsJunction and Linux and Cloud Native enthusiast. 
 
 ```markdown
 Syntax highlighted code block
