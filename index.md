@@ -7,7 +7,28 @@ I am currently working as a Director of Devops/SRE for FieldFLEX Inc. An Enterpr
 
 ### An Elevator pitch about myself
 
-I am a Self driven, Passionated Crafts men. I love what I do and believe in Passion and Smartwork.  Believe in team efforts and Brain storming Ideas. Who sees Automation as a efficiency not as a threat. Technical Content writer at DevopsJunction and Linux and Cloud Native enthusiast. 
+I am a Self driven, Passionated Craftsman. I love what I do and believe in Passion and Smartwork.  A person who Believe in team efforts and Brain storming Ideas. A technologist Who sees Automation as an efficiency not as a threat. Developer, Technical Content writer at DevopsJunction and Linux and OpenSource enthusiast.
+
+
+### Professional Experience
+
+#### - FieldFLEX Inc - Jun 2019 till date
+        ```
+            - Designing, Implementing, Managing the Reliable and Efficient Cloud infrastrucuture
+            - Implementing DevOps standards and idealogies into Development and Opearations
+            - Leading a Infra Ops team and Manging the Deliverables and Site reliability
+            - Security implementation and Vulnerability assesment and small level of penetration testing
+            - Pre sales technical representiative and Building/Hosting Multi cloud Infrastructures with Efficiency.
+            - Applying Standards and Ideas to improve the process and project deliveries
+            
+            
+        
+        ```
+#### - Sify technology Services - Mar 2016 - Jun 2019
+#### - Cognizant technology Services - May 2013 - Feb 2016
+#### - Wipro technogies - Apr 2011 - May 2013
+#### - Nokia Siemans (Mafoi Randstad) - Jun 2010 - Apr 2011
+
 
 ```markdown
 Syntax highlighted code block
